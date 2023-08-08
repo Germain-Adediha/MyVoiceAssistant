@@ -13,13 +13,3 @@ To get funny jokes pip install pyjokes
 and more others...
 
 
-#Russian
-
-Эти строки кода Python для разработки голосового помощника - это всего лишь несколько
-познакомиться с тем, что такое "Голосовой помощник"
-Чтобы робот слушал наш голос / речь pip install speechRecognition
-Чтобы выговориться или преобразовать текст в речь  pyttsx3
-Для расширенного управления в браузере pip install pywhatkit
-Чтобы получить данные из Википедии  pip install wikipedia
-Получать смешные анекдоты  pip install pyjokes
-и многое другое...
